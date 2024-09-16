@@ -1,0 +1,63 @@
+body{
+  background-image: linear-gradient(75deg, rgba(101, 101, 101, 0.2),rgba(132, 132, 132, 0.2)),linear-gradient(135deg, rgb(197, 197, 197) 0%,rgb(251, 251, 251) 39%,rgb(219, 219, 219) 48%,rgb(229, 229, 229) 60%,rgb(186, 186, 186) 91%,rgb(208, 208, 208) 98%,rgb(240, 240, 240) 100%);
+}
+
+
+
+.header-text , .heading {
+  background-color: rgb(10, 10, 10);
+  color: aqua;
+  max-width: 100%;
+  
+
+ 
+}
+
+.header-text{
+  border-radius: 20px !important ;
+  padding: 10px;
+  max-width: 100%;
+ 
+  
+ 
+}
+.heading{
+  border-radius: 20px;
+  padding: 20px;
+  width: 100%;
+ 
+
+ 
+}
+.footer-text{
+  color: aqua;
+  background-color: rgb(4, 4, 5);
+  max-width: 100%;
+  position: fixed;
+  bottom: 0;
+}
+
+.products{
+  overflow: hidden;
+  margin-bottom: 100px;
+ 
+}
+
+
+.card{
+  
+width: 500px;
+background-color: rgb(145, 141, 141);
+color: aqua;
+padding: 10px;
+border-radius: 20px;
+
+}
+.image{
+  height: 150px;
+  width: 150px;
+}
+/* .btn-minus{
+  background-color: whitesmoke;
+  border-radius: 50px;
+} */
